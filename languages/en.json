@@ -1,0 +1,8 @@
+{
+	"plugin-data":
+	{
+		"name": "Recent Tweets",
+		"description": "Show the latest tweets from Twitter on sidebar"
+	},
+    "twitter-handle": "Twitter Handle"
+}
