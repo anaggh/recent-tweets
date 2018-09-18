@@ -1,0 +1,8 @@
+{
+	"plugin-data":
+	{
+		"name": "Son Tweetler",
+		"description": "Twitter'daki son tweetleri kenar çubuğunda göster"
+	},
+    "twitter-handle": "Twitter Kolu"
+}
