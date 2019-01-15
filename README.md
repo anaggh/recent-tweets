@@ -1,6 +1,6 @@
 ## Recent Tweets Plugin:
 
-Minimum Bludit Version: v2.3.x
+Minimum Bludit Version: v3.5.x
 
 Display recent tweets on the sidebar.
 

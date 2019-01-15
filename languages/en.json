@@ -4,5 +4,6 @@
 		"name": "Recent Tweets",
 		"description": "Show the latest tweets from Twitter on sidebar"
 	},
-    "twitter-handle": "Twitter Handle"
+    "twitter-handle": "Twitter Handle",
+    "enable-dark-theme": "Enable Dark Theme"
 }
